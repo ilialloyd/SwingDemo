@@ -5,28 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e50703f4-b112-4476-893e-f1d0a156007b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/covid.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dizz.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/happy.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pain.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/safe.jfif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/swingdemo/ActionListener_Lambda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/swingdemo/ActionListener_With_InnerClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/swingdemo/Button_Text_field_Listener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/swingdemo/Calc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/swingdemo/Caller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/swingdemo/FirstGUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/swingdemo/JRadioButton_CheckBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/swingdemo/MauseListener/MouseDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/swingdemo/MauseListener/MouseListenerExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catbus1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catbus2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nature.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sky.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/swingdemo/Animation2D/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/swingdemo/Animation2D/MyFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/swingdemo/Animation2D/MyPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +62,7 @@
       <recent name="C:\Users\Owner\IdeaProjects\SwingDemo\src\main\java\org\example\swingdemo\MauseListener" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.JProgressBar_example">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Calc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.swingdemo.Calc" />
       <module name="SwingDemo" />
@@ -116,6 +102,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.swingdemo.Animation2D.Main" />
+      <module name="SwingDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.swingdemo.Animation2D.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MouseListenerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.swingdemo.MauseListener.MouseListenerExample" />
       <module name="SwingDemo" />
@@ -129,26 +128,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="org.example.swingdemo.JRadioButton_CheckBox" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.swingdemo.JRadioButton_CheckBox" />
-      <module name="SwingDemo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.swingdemo.MauseListener.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.JProgressBar_example" />
         <item itemvalue="Application.Caller" />
         <item itemvalue="Application.Calc" />
         <item itemvalue="Application.MouseListenerExample" />
-        <item itemvalue="Application.org.example.swingdemo.JRadioButton_CheckBox" />
       </list>
     </recent_temporary>
   </component>
